@@ -1,8 +1,7 @@
 # The-Spark-Foundation
-<br>
-# Task 5: Exploratory Data Analysis - Sports <br>
-In this project, I have performed 'Exploratory Data Analysis' on the dataset of the Indian Premier League (IPL).
-<br>
+# *Task 5: Exploratory Data Analysis - Sports* 
+## In this project, I have performed 'Exploratory Data Analysis' on the dataset of the Indian Premier League (IPL).
+
 # Objective
 <br>
 Identify the most successful teams, players, and factors contributing to the win or loss of a team in the IPL.<br>
